@@ -1,0 +1,21 @@
+start - Nothing
+help - Just help
+show_help_links - will show help links
+show_action_items - Should be show all action items for this group
+show_all_action_items - Should be show all available action items
+configure_action_items - Need to resolve action items
+configure_all_action_items - Need to resolve all available action items
+show_resolved_action_items - Should be show all resolved action items for this group
+show_all_resolved_action_items - Should be show all action items
+resolve_ets - need to resolve ets today
+get_chat_id - need to get chat id
+get_user_id_by_name - need to get user id by name
+get_user_id - need to get user id by reply
+send_on_vacation_by_id - need to send user on vacation by it id
+send_on_vacation - Need for sending user on vacation by using reply from him
+remove_user_from_ets_list - Need for extracting user from ets list by using reply from him
+return_from_vacation - need to return user from vacation by it id
+show_reviews - should be show reviews which dependent on this chat and have an open status
+show_sprint_jira_metrics - should be show sprint jira metrics(Earned value management)
+show_full_jira_metrics - should be show jira metrics(Earned value management) for all project time
+show_ets - need to show ets
